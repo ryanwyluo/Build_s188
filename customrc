@@ -1,0 +1,4 @@
+#!/bin/sh
+export OPBUILD_VENDOR=VendorRyan
+export OPBUILD_PLATFORM=PlatformRyan
+export OPBUILD_VERSION=v-9.9.9
